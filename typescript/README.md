@@ -17,3 +17,12 @@ To run the tests:
 To start the application:
 
     npm start
+
+
+## Todo list
+[x] Sortir la conf de la DB
+[x] Retirer les requetes DB de la fonction compute
+[ ] Refacto la requete getHolidays -> isHoliday
+[ ] Ne pas etre dépendant d'une DB pour les tests u
+[ ] Refacto DB ? Quelle abstraction ? Autre ?
+[ ] On se traine trop souvent la co
