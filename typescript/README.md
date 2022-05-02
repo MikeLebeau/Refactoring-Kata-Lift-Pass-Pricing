@@ -20,6 +20,9 @@ To start the application:
 
 
 ## Todo list
+[x] Analyse du code
+[x] Avoir une couverture de tests a 100%
+[x] Reduire le complexité cognitive
 [x] Sortir la conf de la DB
 [x] Retirer les requetes DB de la fonction compute
 [ ] Refacto la requete getHolidays -> isHoliday
